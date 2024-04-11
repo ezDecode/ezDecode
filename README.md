@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently building a **Portfolio Website For a Client**
 
-- 🔭 I’m actively looking for**Interships(For Free)**
+- 🔭 I’m actively looking for **Interships**
 
 - 🌱 I’m currently learning **All Backend Languages.**
 
